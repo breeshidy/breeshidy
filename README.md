@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @breeshidy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m bridget
+- 👀 I’m interested in learning new coding langauges 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on applications
+- 📫 How to reach me on my email bridgetshidok@gmail.co 
 
 <!---
 breeshidy/breeshidy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
