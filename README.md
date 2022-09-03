@@ -1,6 +1,6 @@
 - 👋 Hi, I’m bridget
 - 👀 I’m interested in learning new coding langauges 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning c# and JavaScript
 - 💞️ I’m looking to collaborate on full stack applications
 - 📫 How to reach me on my email bridgetshidok@gmail.com
 
